@@ -14,6 +14,7 @@ Seeing that the Binance Chain is NEW. Why are we still using Solidity if we have
 Create a dApp using Reach Lang. It using a simple dApp programming model and compiles not only to Ethereum but also Algorand Blockchains.
 https://docs.reach.sh/ 
 
+
 # Team Roles
 
 Kwame Bryan Lead Developer = Binance United States of Africa Team
