@@ -9,4 +9,4 @@ They also help control fraudulent practices such as price manipulation. This pro
 
 # Team Roles
 
-TBD
+Kwame Bryan Lead Developer = Binance United States of Africa Team
