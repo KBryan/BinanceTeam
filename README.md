@@ -23,5 +23,7 @@ This would give a calculation of what the user would earn in that period and the
 # Team Roles
 
 Kwame Bryan  = Lead Developer = Binance United States of Africa Team
+
 Caleb Ogundiya = Team Member (Smart Cntract and Dapp Development) = Binance United States of Africa Team
+
 Eng'r OGAJI Hassan = Team Member (DEX) = BINANCE United States of Africa Team
