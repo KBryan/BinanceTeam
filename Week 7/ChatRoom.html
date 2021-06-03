@@ -44,7 +44,7 @@
             var abi = [{"constant":true,"inputs":[{"name":"_tweetId","type":"uint256"}],"name":"getTweetDetail","outputs":[{"name":"tweetId","type":"uint256"},{"name":"name","type":"string"},{"name":"content","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"_name","type":"string"},{"name":"_content","type":"string"}],"name":"createTweet","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[],"name":"getTotalTweet","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"tweets","outputs":[{"name":"tweetId","type":"uint256"},{"name":"name","type":"string"},{"name":"content","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"tweetId","type":"uint256"},{"indexed":false,"name":"name","type":"string"},{"indexed":false,"name":"content","type":"string"}],"name":"NewTwitter","type":"event"}];
 
             //set contract address
-            var contractAddress = '0xCBdcfE1e3F664ec31833E766B4a46ba725B8c0A3';
+            var contractAddress = '0xAd51aeAFB332719be31cb8F8bDF036Eff1478827';
 
             return await new window.web3.eth.Contract(abi,contractAddress);
         }
